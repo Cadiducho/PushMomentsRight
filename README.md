@@ -8,6 +8,7 @@ Este cambio desplazó un lugar a la derecha el botón de Notificaciones, lo que 
 
 Con esta extensión, el botón de Momentos desaparece de ese lugar y es movido a la derecha del todo, tras Mensajes
 
+![Demostración](https://pbs.twimg.com/media/C3kvr5AWYAEWFhN.jpg "Demostración")
 ## Instalarlo
 
 La extensión NO está en Chrome Web Store y se ha de instalar manualmente
