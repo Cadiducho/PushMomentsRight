@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "PushMomentsRight",
+  "version": "0.1.0",
+  "description": "Push to the right the Moments button on Twitter navbar",
+ 
+  "content_scripts": [{
+    "js": ["jquery.min.js", "pmr.js"],
+    "matches": ["https://twitter.com/*"]
+  }]
+ 
+}
